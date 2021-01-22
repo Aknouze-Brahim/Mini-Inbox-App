@@ -1,7 +1,7 @@
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/services.dart';
 
-class Contacts { // liste des services affectés ou non affectés
+class Contacts {
   final List<Person> contacts;
 
   Contacts({
