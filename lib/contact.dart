@@ -33,14 +33,14 @@ class ContactsViewModel {
       Map parsedJson =
       {
         "contacts": [{
-          "name": "Sachin",
-          "adresse": "Sachin Tendulkar"
+          "name": "Contact1",
+          "adresse": "adresse1"
         }, {
-          "name": "Adam",
-          "adresse": "Adam Gilchrist"
+          "name": "Contact2",
+          "adresse": "adresse2"
         }, {
-          "name": "Brian",
-          "adresse": "Brian Lara"
+          "name": "Contact3",
+          "adresse": "adresse3"
         }
         ]
       }
